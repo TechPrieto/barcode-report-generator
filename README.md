@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 1. Create an `input.txt` file with your data:
 ```
-b11,46556$2525256002$75,,,20030101120220
+Value1,Value2,,,value3
 test1,test2,test3
 ```
 
